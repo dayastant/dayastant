@@ -1,95 +1,51 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left">I'm a passionate Full Stack Developer & Data Science Learner 🚀</p>
-
-###
-
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=27F7F7&lines=Full+Stack+Developer;Data+Science+Learner;Machine+Learning+Enthusiast;Open+Source+Contributor;UI/UX+Designer" />
-  </a>
-</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-<p align="left">✨ Creating bugs since: I wrote my first Hello World!<br>📚 Currently learning: Python for ML & React for Web Apps<br>🎯 Goals: Become a Full-Stack + Machine Learning Engineer<br>🎲 Fun fact: I trust StackOverflow more than my own code sometimes 😂</p>
-
-###
-
-<h2 align="left">Skills</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
-</div>
-
-###
-
-<h2 align="left">Socials</h2>
-
-<div align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" /></a>
-</div>
-
-###
-
-<h2 align="left">GitHub Stats 📊</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayastant&show_icons=true&theme=react&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayastant&theme=react&hide_border=true" height="150" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayastant&layout=compact&theme=react&hide_border=true" height="150" />
-</p>
-
-###
-
-<h2 align="left">Contribution Animation 🐍</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayastant/dayastant/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayastant/dayastant/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/dayastant/dayastant/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
-
-<h2 align="center">🎉 Thanks for visiting my profile! 🎉</h2>
+<h1 align="center">Hi, I'm Thevarasa Dayastan 👋</h1>
+<h3 align="center">Always excited to learn, build, and collaborate!</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ohidurbappy/ohidurbappy/main/wave.svg" alt="wave" />
+  <b> Data Science Student | Web Dev | UI/UX | Software Engineering Learner</b><br>
+  <b>Future Machine Learning Engineer</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A7BF4&center=true&vCenter=true&multiline=true&width=600&lines=Web+Dev+%7C+AI+Enthusiast+%7C+UI/UX+Designer;" alt="Typing SVG" />
+</p>
+
+
+### About Me
+
+- 🌱 I’m currently learning *Machine Learning, Python, React, and Data Science*
+- 📫 Reach me via: *dayastant@gmail.com*
+- 🔗 More about me on *LinkedIn*
+- ⚡ Fun fact: I break my own code just to fix it better later 😄
+
+---
+
+### Connect with me
+<p align="center">
+<a href="https://linkedin.com/in/neerayank27" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
+</a>
+</p>
+
+---
+
+### Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" />&nbsp;&nbsp; 
 </p>

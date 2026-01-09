@@ -24,7 +24,7 @@
 
 ### Connect with me
 <p align="center">
-<a href="https://linkedin.com/in/neerayank27" target="_blank">
+<a href="https://www.linkedin.com/in/dayastant4" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
 </a>
 </p>
